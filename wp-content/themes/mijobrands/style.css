@@ -1,0 +1,98 @@
+
+.wrap-full #primary{
+	max-width: 100%!important;
+}
+
+.wrap-full .entry-content,
+.wrap-full .entry-header{
+	width:100%!important;
+	float:none!important;
+}
+
+.wrap-full .entry-header{
+	max-width: 798px;
+}
+
+.wrap-full .entry-content > *{
+	max-width: 798px;
+	margin:auto;
+}
+
+.wrap-full .entry-content > span,
+.wrap-full .entry-content > strong{
+	display: block;
+}
+
+@media(max-width: 768px){
+	.wrap-full .entry-content > *,
+	.wrap-full .entry-header > *{
+		padding:20px;
+	}
+}
+
+
+
+
+/*Ancho ampliado y ancho completo*/
+.wrap-full .entry-content .alignwide{
+	max-width: 980px;
+	padding:0;
+}
+
+.wrap-full .entry-content .alignfull{
+	max-width: 100%;
+	padding:0;
+}
+
+/*Paleta de colores*/
+.wrap-full .has-strong-magenta-background-color {
+    background-color: #a156b4;
+}
+
+.wrap-full .has-strong-magenta-color {
+    color: #a156b4;
+}
+
+.wrap-full .has-light-grayish-magenta-background-color {
+    background-color: #d0a5db!important;
+}
+
+.wrap-full .has-light-grayish-magenta-color {
+    color: #d0a5db;
+}
+
+.wrap-full .has-very-light-gray-background-color {
+    background-color: #eee;
+}
+
+.wrap-full .has-very-light-gray-color {
+    color: #eee;
+}
+
+.wrap-full .has-very-dark-gray-background-color {
+    background-color: #444;
+}
+
+.wrap-full .has-very-dark-gray-color {
+    color: #444;
+}
+
+/*Tamaño de Fuente*/
+.wrap-full .has-small-font-size{
+	font-size:12px;
+}
+
+.wrap-full .has-normal-font-size{
+	font-size:16px;
+}
+.wrap-full .has-large-font-size{
+	font-size:36px;
+}
+.wrap-full .has-huge-font-size{
+	font-size:36px;
+}
+
+.entry-header {
+	display: none !important;
+}
+

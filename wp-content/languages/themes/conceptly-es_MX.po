@@ -1,0 +1,594 @@
+# Translation of Themes - Conceptly in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - Conceptly package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-28 18:57:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - Conceptly\n"
+
+#. Description of the theme
+msgid "Conceptly is a fast and lightweight, multi-purpose WordPress theme. Enjoy Ken Burns effect, background elements, & smooth animations. Build amazing website with Conceptly. Checkout the demo of Conceptly Pro https://www.nayrathemes.com/demo/pro/?theme=conceptly"
+msgstr "Conceptly es un tema para WordPress rápido, ligero y multiuso. Disfruta del efecto Ken Burns, elementos de fondo y animaciones suaves. Construye un sitio web increíble con Conceptly. Echa un vistazo a la demo de Conceptly Pro https://www.nayrathemes.com/demo/pro/?theme=conceptly"
+
+#. Theme Name of the theme
+msgid "Conceptly"
+msgstr "Conceptly"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:674
+msgid "Slider Image"
+msgstr "Imagen del carrusel"
+
+#: footer.php:25
+msgid "<a href=\"https://www.nayrathemes.com/conceptly-free/\" target=\"_blank\">Conceptly WordPress Theme</a>"
+msgstr "<a href=\"https://www.nayrathemes.com/conceptly-free/\" target=\"_blank\">Tema Conceptly para WordPress</a>"
+
+#: inc/customize/conceptly-premium.php:34
+msgid "Show Some Love"
+msgstr "Danos un poco de amor"
+
+#: inc/customize/conceptly-premium.php:30
+msgid "Free Vs Pro"
+msgstr "Gratis contra Pro"
+
+#: inc/customize/conceptly-premium.php:28
+msgid "Get Support"
+msgstr "Obtener Soporte"
+
+#: inc/customize/conceptly-premium.php:12
+#: inc/customize/conceptly-premium.php:32
+msgid "Upgrade to Pro"
+msgstr "Mejorar a Pro"
+
+#: inc/extras.php:741
+msgid "Get started with Conceptly"
+msgstr "Empieza con Conceptly"
+
+#: inc/extras.php:739
+msgid "Install and activate <strong>Clever Fox</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instala y activa el plugin <strong>Clever Fox</strong> para aprovechar al máximo todas las características de este tema."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:735
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "¡Bienvenido! ¡Gracias por elegir %1$s!"
+
+#: inc/extras.php:728
+msgid "Theme Screenshot"
+msgstr "Captura de pantalla del tema"
+
+#: 404.php:22
+msgid "Back To Home"
+msgstr "Volver al Inicio"
+
+#: 404.php:21
+msgid "Something Went Wrong Here"
+msgstr "Algo salió mal aquí"
+
+#: 404.php:20
+msgid "Oops.."
+msgstr "Oops.."
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:46 comments.php:66
+msgid "Newer Comments"
+msgstr "Comentarios nuevos"
+
+#: comments.php:45 comments.php:65
+msgid "Older Comments"
+msgstr "Comentarios antiguos"
+
+#: comments.php:43 comments.php:62
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:28
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#. Template Name of the theme
+msgid "Default homepage"
+msgstr "Página de Inicio por defecto"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "Ancho completo de página"
+
+#: inc/class-wp-bootstrap-navwalker.php:367
+msgid "Add a menu"
+msgstr "Agregar un menú"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:743
+#: inc/customizer-repeater/class/customizer-repeater-control.php:776
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:738
+#: inc/customizer-repeater/class/customizer-repeater-control.php:768
+msgid "Remove Icon"
+msgstr "Eliminar icono"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:721
+msgid "Social icons"
+msgstr "Iconos sociales"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:713
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:708
+msgid "Image type"
+msgstr "Tipo de imagen"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:697
+msgid "Center"
+msgstr "Centrado"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:693
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:689
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:685
+msgid "Slide Align"
+msgstr "Alineación de diapositiva"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:648
+#: inc/customizer-repeater/class/customizer-repeater-control.php:677
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:645
+#: inc/customizer-repeater/class/customizer-repeater-control.php:712
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:610
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:609
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: algunos iconos no se muestran aquí. Puedes ver la lista completa de iconos en %1$s."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:593
+msgid "Open link in new tab:"
+msgstr "Abrir enlace en una nueva pestaña:"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:556
+msgid "Delete field"
+msgstr "Borrar campo"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:491
+msgid "skill"
+msgstr "habilidad"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:421
+msgid "Delete %s"
+msgstr "Borrar %s"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:405
+#: inc/customizer-repeater/class/customizer-repeater-control.php:545
+msgid "Designation"
+msgstr "Denominación"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:397
+#: inc/customizer-repeater/class/customizer-repeater-control.php:536
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:387
+#: inc/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:357
+#: inc/customizer-repeater/class/customizer-repeater-control.php:521
+msgid "Video Url"
+msgstr "URL del vídeo"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer-repeater/class/customizer-repeater-control.php:508
+#: inc/customizer-repeater/class/customizer-repeater-control.php:735
+#: inc/customizer-repeater/class/customizer-repeater-control.php:757
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:332
+#: inc/customizer-repeater/class/customizer-repeater-control.php:498
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:324
+msgid "skills"
+msgstr "habilidades"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:303
+#: inc/customizer-repeater/class/customizer-repeater-control.php:470
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Customizer Repeater"
+msgstr "Repetidor del personalizador"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Add new field"
+msgstr "Añadir nuevo campo"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Dejar un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Etiqueta %1$s"
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: inc/customizer-notify/conceptly-customizer-notify.php:111
+msgid "Activating"
+msgstr "Activando"
+
+#: inc/customizer.php:23
+msgid "Homepage Sections"
+msgstr "Secciones de la página de inicio"
+
+#: inc/customize/conceptly-blog.php:95
+msgid "No of Posts Display"
+msgstr "Número de Posts para mostrar"
+
+#: inc/customize/conceptly-blog.php:84
+msgid "3"
+msgstr "3"
+
+#: inc/customize/conceptly-blog.php:70
+#: inc/customizer-repeater/class/customizer-repeater-control.php:310
+#: inc/customizer-repeater/class/customizer-repeater-control.php:477
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/customize/conceptly-blog.php:50
+#: inc/customizer-repeater/class/customizer-repeater-control.php:295
+#: inc/customizer-repeater/class/customizer-repeater-control.php:462
+msgid "Title"
+msgstr "Título"
+
+#: inc/customize/conceptly-blog.php:9
+msgid "Blog Section"
+msgstr "Sección de Blog"
+
+#: inc/customize/conceptly-header-section.php:207
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: inc/customize/conceptly-header-section.php:188
+#: inc/customizer-repeater/class/customizer-repeater-control.php:317
+#: inc/customizer-repeater/class/customizer-repeater-control.php:484
+msgid "Button Label"
+msgstr "Etiqueta del botón"
+
+#: inc/customize/conceptly-header-section.php:149
+msgid "Button Setting"
+msgstr "Ajustes del Botón"
+
+#: inc/customize/conceptly-header-section.php:116
+msgid "Sticky Header"
+msgstr "Cabecera sticky"
+
+#: inc/customize/conceptly-header-section.php:100
+msgid "Search Icon"
+msgstr "Ícono de Búsqueda"
+
+#: inc/customize/conceptly-header-section.php:79
+msgid "Hide / Show Search"
+msgstr "Ocultar / Mostrar Búsqueda"
+
+#: inc/customize/conceptly-header-section.php:60
+msgid "Header Search"
+msgstr "Búsqueda en Cabecera"
+
+#: inc/customize/conceptly-header-section.php:42
+msgid "Logo Width"
+msgstr "Ancho del logo"
+
+#: inc/customize/conceptly-header-section.php:21
+msgid "Site Identity"
+msgstr "Identidad del sitio"
+
+#: inc/customize/conceptly-header-section.php:10
+msgid "Header Section"
+msgstr "Sección de Cabecera"
+
+#: inc/customize/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/customize/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/customize/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: inc/customize/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Plugin recomendado"
+
+#: inc/customize/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: inc/customize/customizer_recommended_plugin.php:10
+msgid "Install and activate <strong>cleverfox</strong> plugin for taking full advantage of all the features this theme has to offer Conceptly."
+msgstr "Instala y activa el plugin <strong>cleverfox</strong> para aprovechar al máximo todas las características de Conceptly."
+
+#: inc/customize/conceptly-footer-section.php:148
+msgid "Footer Background Image"
+msgstr "Imagen de Fondo del Pie de Página"
+
+#: inc/customize/conceptly-footer-section.php:131
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customize/conceptly-footer-section.php:117
+#: inc/customizer-repeater/class/customizer-repeater-control.php:604
+#: inc/customizer-repeater/class/customizer-repeater-control.php:711
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/customize/conceptly-footer-section.php:116
+msgid "Add New Icon"
+msgstr "Agregar ícono nuevo"
+
+#: inc/customize/conceptly-footer-section.php:74
+#: inc/customize/conceptly-footer-section.php:114
+msgid "Payment Icon"
+msgstr "Ícono de pago"
+
+#: inc/customize/conceptly-footer-section.php:47
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Funciona gracias a [theme_author]"
+
+#: inc/customize/conceptly-footer-section.php:18
+#: inc/customize/conceptly-footer-section.php:60
+msgid "Copyright Content"
+msgstr "Contenido del Copyright"
+
+#: inc/customize/conceptly-footer-section.php:10
+msgid "Footer Section"
+msgstr "Sección del pie de página"
+
+#: inc/customize/conceptly-blog.php:30
+#: inc/customize/conceptly-footer-section.php:39
+#: inc/customize/conceptly-footer-section.php:94
+#: inc/customize/conceptly-general.php:122
+#: inc/customize/conceptly-header-section.php:134
+#: inc/customize/conceptly-header-section.php:167
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar Sección"
+
+#: inc/customize/conceptly-general.php:103
+msgid "Scroller"
+msgstr "Desplazador"
+
+#: inc/customize/conceptly-general.php:93
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/customize/conceptly-general.php:92
+msgid "Fixed"
+msgstr "Fijo"
+
+#: inc/customize/conceptly-general.php:87
+msgid "Image Position"
+msgstr "Posición de la imagen"
+
+#: inc/customize/conceptly-general.php:78
+msgid "scroll"
+msgstr "desplazar"
+
+#: inc/customize/conceptly-general.php:70
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customize/conceptly-general.php:52
+msgid "Breadcrumb Hide/Show"
+msgstr "Mostrar/Ocultar Breadcrumbs"
+
+#: inc/customize/conceptly-general.php:34
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/customize/conceptly-general.php:22
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/customize/conceptly-general.php:12
+msgid "General"
+msgstr "General"
+
+#: inc/breadcrumb/breadcrumb.php:139
+msgid "Page"
+msgstr "Página"
+
+#: inc/breadcrumb/breadcrumb.php:134
+msgid "Error 404 "
+msgstr "Error 404 "
+
+#: inc/breadcrumb/breadcrumb.php:130
+msgid "Articles posted by "
+msgstr "Artículos publicado por"
+
+#: inc/breadcrumb/breadcrumb.php:124
+msgid "Posts tagged "
+msgstr "Entradas etiquetadas"
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "Buscar resultados para"
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "Archivo por categoría"
+
+#: inc/breadcrumb/breadcrumb.php:6
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+#: inc/customize/conceptly-blog.php:21
+msgid "1"
+msgstr "1"
+
+#: inc/sidebar/sidebar.php:30
+msgid "The Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: inc/sidebar/sidebar.php:28
+msgid "Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: inc/sidebar/sidebar.php:20
+msgid "The Primary Widget Area"
+msgstr "Área de widgets principal"
+
+#: inc/sidebar/sidebar.php:18
+msgid "Sidebar Widget Area"
+msgstr "Área de widget del sidebar"
+
+#: template-parts/content/content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada encaja con los términos de la búsqueda. Inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primer entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content/content-page.php:32
+#: template-parts/content/content-page.php:43
+#: template-parts/content/content-search.php:32
+#: template-parts/content/content-search.php:43
+msgid "By"
+msgstr "Por"
+
+#: template-parts/content/content-page.php:31
+#: template-parts/content/content-page.php:42
+#: template-parts/content/content-search.php:31
+#: template-parts/content/content-search.php:42
+msgid "on"
+msgstr "en"
+
+#: template-parts/content/content.php:37
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page.php:60
+#: template-parts/content/content-search.php:64
+#: template-parts/sections/section-blog.php:79
+msgid "Read More"
+msgstr "Leer más"
+
+#: template-parts/sections/conceptly-breadcrumb.php:41
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: template-parts/sections/conceptly-breadcrumb.php:37
+msgid "Error 404"
+msgstr "Error 404"
+
+#: template-parts/sections/conceptly-breadcrumb.php:33
+msgid "Tag Archives: %s"
+msgstr "Archivos de la etiqueta: %s"
+
+#: template-parts/sections/conceptly-breadcrumb.php:29
+msgid "Category Archives: %s"
+msgstr "Archivos de la Categoría: %s"
+
+#: template-parts/sections/conceptly-breadcrumb.php:25
+msgid "Yearly Archives: %s"
+msgstr "Archivos Anuales: %s"
+
+#: template-parts/sections/conceptly-breadcrumb.php:21
+msgid "Monthly Archives: %s"
+msgstr "Archivos Mensuales: %s"
+
+#: template-parts/sections/conceptly-breadcrumb.php:17
+msgid "Daily Archives: %s"
+msgstr "Archivos Diarios: %s"
+
+#: template-parts/sections/conceptly-navigation.php:143
+msgid "Type To Search"
+msgstr "Teclea para buscar"
+
+#: template-parts/sections/conceptly-navigation.php:142
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: template-parts/sections/conceptly-navigation.php:141
+msgid "Site Search"
+msgstr "Búsqueda del sitio"
+
+#: searchform.php:11
+msgid "Search"
+msgstr "Buscar"
+
+#. Author URI of the theme
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Theme URI of the theme
+msgid "https://www.nayrathemes.com/conceptly-free/"
+msgstr "https://www.nayrathemes.com/conceptly-free/"
+
+#. Author of the theme
+msgid "Nayra Themes"
+msgstr "Nayra Themes"
